@@ -1,0 +1,4 @@
+# Root Input and output directories
+ODF_Input_Directory="C:/CIOOS_ODFtoNetCDF_MCTD/2023"
+NetCDF_Output_Directory="C:/CIOOS_ODFtoNetCDF_MCTD/2023"
+Working_Directory = "C:/CIOOS_ODFtoNetCDF_MCTD"
