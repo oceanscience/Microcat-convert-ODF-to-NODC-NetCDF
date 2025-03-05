@@ -1,0 +1,218 @@
+GF3 code,standard_name,Name,units,P06 unit name,P06 unit code,MEDS match,IML match,P01 code,P01: preferred name
+ABSH,specific_humidity,Absolute Humidity,g m-3,Grams per cubic metre,UGMC,Y,Y,CHUMZZ01,Relative humidity of the atmosphere
+ALKY,,Total Alkalinity,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,ALKYZZXX,Total alkalinity per unit volume of the water body
+ALPO,,Alpha-0,m**3/kg,,,NA,Y,,
+ALTS,, Height/Altitude above Mean Sea Level ,metres,Metres,ULAA,Y,Y,AHSLZZ01,Height above sea level (spatial co-ordinate)
+ALTB,, Height/Altitude above Bottom  units: metres,metres,Metres,ULAA,Y,NA,AHSFZZ01,Height above bed in the water body
+ATMP,air_pressure,Atmospheric pressure,hPa,,,,,,
+AMON,millimole_concentration_of_ammonium_in_sea_water, Ammonium (NH4-N) Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,MDMAP004,Concentration of ammonium {NH4+ CAS 14798-03-9} per unit mass of the water body [unknown phase]
+ATP,,Adenosine Triphosphate content,mg/m**3,,,,,ATPXZZDZ,Concentration of adenosine triphosphate {ATP CAS 56-65-5} per unit volume of the water body [dissolved plus reactive particulate <unknown phase]
+ATMS,air_pressure_at_mean_sea_level, Atmospheric Pressure at Sea Level  , hpa,hectopascal,HPAX,Y,Y,,
+ATRK,, Along Track Displacement , metres,Metres,ULAA,Y,Y,,
+BAC,,Bacteria Counts,10**6/L,,,,,TBCCXXXX,Abundance of Bacteria (ITIS: 202421: WoRMS 6) per unit volume of the water body
+ATTU,, Attenuance  ,m-1,Number per metre,NOPM,NA,N: specifies ADCP,ATTNXXZZ,Attenuation (unspecified wavelength) per unit length of the water body
+BATT,,Battery Voltage,volts,,,,,,
+BIOV,,Organism Volume,mL,,,,,CVOLUKNB,Biovolume of biological entity specified elsewhere per unit volume of the water body
+BNO7,,Best NODC7 number,1,,,,,,
+BATH,,Bathymetric Depth  ,metres,Metres,ULAA,Y,Y,BATHDPTH,Sea-floor depth (below mean sea level) {bathymetric depth}
+CDOM,,Fluorescence of CDOM (Coloured Dissolved Organic Matter),mg m-3,,,,,CDOMZZ01,Concentration of coloured dissolved organic matter {CDOM Gelbstoff} per unit volume of the water body [dissolved plus reactive particulate phase] by fluorometry
+CDOMSDEV,,Fluorescence of CDOM (Coloured Dissolved Organic Matter) standard deviation,mg m-3,,,,,,
+CDWT,,Detail data: Calculated dry weight derived using a regression,mg/m?,,,,,,
+CALK,,Carbonate Alkalinity  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,,
+CHLR,,  Chlorinity (parts/thousand)  ,g/kg,grams per kilogram,UGKG,Y,Y,,
+CMET,,Method used for sample collection,1,,,,,,
+CMNT,,Comments,1,,,,,,
+CHLS,,Chlorosity  ,kg m-3,KILOGRAMS PER CUBIC METRE,UKMC,Y,Y,CLXXIETX,Concentration of chloride {Cl- CAS 16887-00-6} per unit volume of the water body [dissolved plus reactive particulate phase] by ion-selective electrode
+CNTR,,Counter,1,,,,,,
+CNTS,,Number of Organisms Counted,1,,,,,,
+COLL,,Detail data: Name of the collector for the data,1,,,,,,
+COND,sea_water_electrical_conductivity,Conductivity,mmHo,,,,,,
+CNDC,sea_water_electrical_conductivity,Electrical Conductivity  ,S m-1,**,** ,Y,Y,CNDCZZ01,Electrical conductivity of the water body
+CPCT,,Identifies the Percentage of Specified Plankton,%,,,,,,
+CORG,mole_concentration_of_dissolved_organic_carbon_in_sea_water,Organic Carbon Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,CORGPGFF,Concentration of organic carbon {organic_C CAS 7440-44-0} {POC} per unit volume of the water body [particulate >GF/F phase]
+CPHL,mass_concentration_of_chlorophyll_a_in_sea_water, Chlorophyll-a Content  ,mg m-3,milligrams per cubic metre,UMMC,Y,Y,CPHLZZXX,Concentration of chlorophyll-a {chl-a CAS 479-61-8} per unit volume of the water body [particulate >unknown phase]
+CTAX,,Collector Taxonomic Identifier,1,,,,,,
+CRAT,,Conductivity Ratio  ,1,,,NA,Y,,
+CTOT,,Total Carbon (C) Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,MDMAP011,Concentration of total carbon {total_C CAS 7440-44-0} per unit volume of the water body [particulate >unknown phase]
+DCHG,,Discharge,m3 s-1,,,,,,
+DENS,sea_water_density,Sea Density  ,kg m-3,KILOGRAMS PER CUBIC METRE,UKMC,"N: specifies ""water""",Y,DENSWB01,Density of the water body by gravimetry
+DEPH,,Sensor Depth below Sea Surface  , metres,Metres,ULAA,Y,Y,,
+DEPO,,Observation Depth below Sea Surface  ,metres,Metres,ULAA,N,N,ADEPZZ01,Depth below surface of the water body
+DOC,mole_concentration_of_dissolved_organic_carbon_in_sea_water,Dissolved Organic Carbon content,mmol m-3,,,,,CORGZZZX,Concentration of organic carbon {organic_C CAS 7440-44-0} {DOC} per unit volume of the water body [dissolved plus reactive particulate phase]
+DON,mass_concentration_of_organic_nitrogen_in_sea_water,Dissolved Organic Nitrogen content,mmol m-3,,,,,NTOTZZXX,Concentration of total nitrogen {total_N} per unit volume of the water body [dissolved plus reactive particulate phase]
+DEWT,dew_point_temperature,Dew Point Temperature  ,degree_C,Degrees Celsius,UPAA,Y,Y,CDEWZZ01,Dew point temperature of the atmosphere
+DOXY,,  Dissolved Oxygen  ,ml l-1,milliletres per litre,UMLL,N: units differ,Y,DOXYZZ01,Concentration of oxygen {O2 CAS 7782-44-7} per unit volume of the water body [dissolved plus reactive particulate phase] by in-situ sensor
+DPDT,,Lowering Rate  ,metres sec-1,metres per second,UVAA,Y,Y,,
+DRDP,,Depth of Drogue  ,metres,Metres,ULAA,Y,Y,,
+DRWT,,Dry Weight of Organisms,g,,,,,,
+DRYT,,  Dry Bulb Temperature  ,degree_C,Degrees Celsius,UPAA,Y,Y,CDTASS01,Temperature of the atmosphere by dry bulb thermometer
+DYNH,geopotential_height, Geopotential Dynamic Height  , m,Metres,ULAA,NA,Y,,
+EWCM,eastward_sea_water_velocity, East (magnetic) Component of Current  ,m s-1,metres per second,UVAA,Y,Y,,
+EWCT,eastward_sea_water_velocity,  East (true) Component of Current ,m s-1,metres per second,UVAA,Y,Y,LCEWZZ01,Eastward current velocity in the water body
+FLOR,,Fluorescence,mg m-3,,,,,,
+FLORSDEV,,Fluorescence standard deviation,mg m-3,,,,,,
+FLU,,Fluorescence,%,,,,,,
+FFFF,, Quality Control Flag  ,code,,,Y,Y,,
+GEAR,,Gear used for sample collection,1,,,,,,
+HCDM,, Horizontal Current Direction (magnetic) ,degrees,Degrees ,UAAA,Y,Y,LCDAZZ01,Current direction in the water body
+HCDT,,Horizontal Current Direction (true)  ,degrees,Degrees ,UAAA,"N: ""Direction to which horizontal current is flowing (relative to true north) """,Y,,
+HCSP,barotropic_sea_water_x_velocity,Horizontal Current Speed  ,m s-1,metres per second,UVAA,Y,Y,LCSAZZ01,Current speed (Eulerian) in the water body
+HGHT,height_above_mean_sea_level, Height/Altitude above Sea Surface  ,metres,Metres,ULAA,Y,Y,,
+HSUL,, Hydrogen Sulphide (H2S-S) Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,H2SXZZXX,Concentration of hydrogen sulphide {H2S CAS 7783-06-4} per unit volume of the water body [dissolved plus reactive particulate phase]
+IDEN,,Data identifier,1,,,,,,
+LATD,latitude,Latitude Degrees (North +ve)  ,degrees,Degrees ,UAAA,Y,Y,ALATZZ01,Latitude north
+LCHL,,Chlorophyll-a Content from cells > 5um,mg m-3,,,,,,
+LHIS,,Life History or Development Stage ,1,,,,,,
+LOND,longitude,Longitude Degrees (East +ve)  ,degrees,Degrees ,UAAA,Y,Y,ALONZZ01,Longitude east
+LPHA,,Phaeopigment content from cells > 5um,mg m-3,,,,,,
+MAGN,,Magnetic Variation From True North  ,degrees,Degrees ,UAAA,Y,Y,MAGDCORR,Diurnal variation correction of magnetic field of the Earth
+MNSV,,Retention Filter Size,microns,,,,,,
+MNSZ,,Minimum size of organisms,microns,,,,,,
+MODF,,Additional taxonomic information,1,,,,,,
+NETR,solar_irradiance,Net Solar Radiation  ,watts/m**2,Watts per square metre,UWCM,"N: does not specify ""solar""",Y,,
+NORG,mass_concentration_of_organic_nitrogen_in_sea_water,Organic Nitrogen Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,DONXXXX1,Concentration of organic nitrogen {organic_N} {DON} per unit volume of the water body [dissolved plus reactive particulate <GF/F phase]
+NSCM,northward_sea_water_velocity,North (magnetic) Component of Current  ,m s-1,metres per second,UVAA,Y,Y,,
+NSCT,northward_sea_water_velocity, North (true) Component of Current  ,m s-1,metres per second,UVAA,Y,Y,LCNSZZ01,Northward current velocity in the water body
+NTOT,, Total Nitrogen (N) Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,MDMAP013,Concentration of total nitrogen {total_N} per unit volume of the water body [particulate >unknown phase]
+NTRA,mole_concentration_of_nitrate_in_sea_water,Nitrate (NO3-N) Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,NTRAXXDZ,Concentration of nitrate {NO3- CAS 14797-55-8} per unit volume of the water body [dissolved plus reactive particulate <unknown phase]
+NTRI,mole_concentration_of_nitrite_in_sea_water,NitrIte (NO2-N) Content  ***TYPO CORRECTED,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,NTRIXXDZ,Concentration of nitrite {NO2- CAS 14797-65-0} per unit volume of the water body [dissolved plus reactive particulate <unknown phase]
+NTRZ,mole_concentration_of_nitrate_and_nitrite_in_sea_water,Nitrate + Nitrate Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,NTRZXXDZ,Concentration of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate <unknown phase]
+NUM,,Number of scans averaged,1,,,,,,
+OSAT,fractional_saturation_of_oxygen_in_sea_water,Oxygen Saturation  ,%,percent,UPCT,NA,Y,OXYSZZ01,Saturation of oxygen {O2 CAS 7782-44-7} in the water body [dissolved plus reactive particulate phase]
+OCUR,,Oxygen Sensor Current ,ma,??,??,NA,Y,OXYCRW01,Instrument output (current) by oxygen sensor
+OPPR,partial_pressure_of_oxygen_in_sea_water,Oxygen Partial Pressure,1,,,,,,
+OTMP,,Oxygen Sensor Temperature  ,degree_C,Degrees Celsius,UPAA,Y,Y,OXYTPR01,Temperature of oxygen sensor membrane
+PCGD,,Percent Good Signal Return (ADCP),%,,,,,PCGD01,Acceptable proportion of signal returns by acoustic doppler current profiler (ADCP)
+PGDP,,Percent Good Pings,%,,,,,,
+PHA,,Phaeopigment content,mg m-3,,,,,PHAEZZXX,Concentration of phaeopigments {pheopigments} per unit volume of the water body [particulate >unknown phase]
+PHOS,mole_concentration_of_phosphate_in_sea_water,Phosphate (PO4-P) Content  ,mmol m-3,Millimoles per cubic metre,MMCM,N: units differ,Y,PHOSYYDZ,Concentration of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase]
+PHPH,sea_water_ph_reported_on_total_scale,Hydrogen Ion Concentration (PH)  ,1,,,Y,Y,PHXXZZXX,pH per unit volume of the water body
+PHY,,Phytoplankton Counts,10**3cells/L,,,,,,
+PIM,,Bottle sample particulate inorganic matter,g/m**3,,,,,,
+PLT,,Percentage of the incident surface light remaining at the sampled depth,%,,,,,PCTIRRXX,Proportion of sub-surface irradiance (PAR wavelengths) {Percent light depth}
+POC,ocean_mass_content_of_particulate_organic_matter_expressed_as_carbon,Particulate Organic Carbon content,mmol m-3,,,,,,
+POM,,Bottle sample particulate organic matter,g/m**3,,,,,,
+PON,,Particulate Organic Nitrogen content,mmol m-3,,,,,,
+POTM,sea_water_potential_temperature,Potential Temperature  ,degree_C,Degrees Celsius,UPAA,Y,Y,,
+POTT,air_potential_temperature,Potential Air Temperature  ,degree_C,Degrees Celsius,UPAA,Y,Y,CPATZZ01,Potential temperature of the atmosphere
+PPR,net_primary_production_of_biomass_expressed_as_carbon_per_unit_volume_in_sea_water,Primary Production,mgC/m**3/h,,,,,,
+PRES,sea_water_pressure,Sea Pressure (sea surface - 0)  ,decibars,decibars,UPDB,"N: ""=""",Y,PRESPR01,Pressure (spatial co-ordinate) exerted by the water body by profiling pressure sensor and corrected to read zero at sea level
+PSAL,sea_water_practical_salinity,Practical Salinity  , psu,dimensionless,UUUU,Y,Y,PSLTZZ01,Practical salinity of the water body
+PROC,,Identifies the state of the sample analysis,1,,,,,,
+PRP,,Production primaire ? partir d`incubations,mgC/m**3/h,,,,,,
+PRSN,,Indicates presence (1) or absence (0) of organisms if not counted,1,,,,,,
+PRSV,,Method used for sample preservation,1,,,,,,
+PTCH,platform_pitch_angle,Pitch Angle  ,degrees,Degrees ,UAAA,Y,"N: specifies ""ADCP""",PTCHGP01,Orientation (pitch) of measurement device by unspecified GPS system
+PTCHSDEV,,Pitch Angle standard deviation,degrees,,,,,,
+QCFF,,Quality flag: QCFF,1,,,,,,
+QQQQ,, Quality Control Flag  ,1,,,NA,Y,,
+RANG,, Distance of Object from Reference Point  ,metres,Metres,ULAA,Y,Y,,
+RELH,relative_humidity,Relative Humidity  , %,percent,UPCT,Y,Y,CHUMZZ01,Relative humidity of the atmosphere
+RELP,, Relative Total Pressure  ,decibars,decibars,UPDB,Y,Y,,
+ROLL,platform_roll_angle, Roll Angle  ,degrees,Degrees ,UAAA,Y,"N: specifies""ADCP""",ROLLGP01,Orientation (roll angle) of measurement device by unspecified GPS system
+ROLLSDEV,,Roll Angle standard deviation,degrees,,,,,,
+RPOT,,Redox Potential,mV,,,,,RPTWBZZ1,Redox potential in the water body by redox electrode and NO reference electrode correction
+SDEV,,Standard deviation of preceding parameter,1,,,,,,
+SECC,secchi_depth_of_sea_water,SECCHI disc depth,m,,,,,SECCSDNX,Visibility in the water body by Secchi disk
+SEX,,Sex,1,,,,,,
+SIGO,,Sigma-0  ,kg m-3,kilograms per cubic metre,UKMC,NA,Y,,
+SIGP,sea_water_sigma_theta,Sigma-Theta  ,kg m-3,kilograms per cubic metre,UKMC,NA,Y,SIGTEQ01,Sigma-theta of the water body by computation from salinity and potential temperature using UNESCO algorithm
+SIGT,sea_water_sigma_t,Sigma-T  ,kg m-3,kilograms per cubic metre,UKMC,NA,Y,SIGTEQST,Sigma-T of the water body by computation from salinity and temperature using UNESCO algorithm
+SLCA,mole_concentration_of_silicate_in_sea_water,Silicate (SIO4-SI) Content  , mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,SLCAZZXX,Concentration of silicate {SiO44- CAS 17181-37-2} per unit volume of the water body [unknown phase]
+SPEH,specific_humidity,Specific Humidity  ,g kg-1,grams per kilogram,UGKG,Y,Y,CHUMSS01,Specific humidity of the atmosphere
+SPVA,,Specific Volume Anomaly  ,m3 kg-1,??,??,NA,Y,,
+SPVO,sea_water_volume,Specific Volume  ,m3 kg-1,??,??,Y,Y,,
+SSAL,sea_water_salinity, Salinity  ,g kg-1,grams per kilogram,UGKG,"N: ""pre 1978""",Y,ODSDM021,Salinity of the water body
+SPAR,,Surface Photosynthetic Active Radiation,ueinsteins/s/m**2,,,,,,
+SPARSDEV,,Surface Photosynthetic Active Radiation standard deviation,ueinsteins/s/m**2,,,,,,
+SPFR,,Fraction of Sample,1,,,,,,
+STOR,,Description of sample storage between collection and analysis,1,,,,,,
+STRA,,Stress Amplitude  ,Pa,pascals,PASX,NA,Y,,
+STRD,, Stress Direction  ,degrees T,Degrees ,UAAA,NA,Y,,
+STRU,,Stress (U Component)  , Pa,pascals,PASX,NA,Y,NWSTRRXX,Northward wind stress on the water body
+STRV,,Stress (V Component)  ,Pa,pascals,PASX,NA,Y,EWSTRRXX,Eastward wind stress on the water body
+SVEL,speed_of_sound_in_sea_water,Sound Velocity  ,m s-1,metres per second,UVAA,Y,Y,SVELXXXX,Sound velocity in the water body
+SYTM,time,PIPE Time Format DD-MMM-YYYY HH:MM:SS.ss  ,s,,,NA,Y,,
+TAXN,,Taxonomic Name,1,,,,,,
+TEMP,sea_water_temperature, Sea Temperature  ,degree_C,Degrees Celsius,UPAA,N,"N ""WATER""",TEMPPR01,Temperature of the water body
+TEXT,,Plain Language Text  ,1,,,Y,Y,,
+TILT,,Tilt Angle  ,degrees,Degrees ,UAAA,NA,"N: specifies""ADCP""",ZNTHSS01,Orientation (tilt) of measurement platform by inclinometer
+TOTP,sea_water_pressure,Total Pressure (Atmosphere + Sea Pressure)  ,decibars,decibars,UPDB,Y,Y,PPSCZZ01,Pressure (measured variable) exerted by the water body plus atmosphere
+TILTSDEV,,Tilt Angle standard deviation,degrees,,,,,,
+TLENBSEQ,,Frequency data: Sequential number attached to bugs having a given total length,,,,,,,
+TLENCNTP,,Frequency data: Percentage of bugs having a given total length,%,,,,,,
+TLENCOLL,,Frequency data: Name of the collector,,,,,,,
+TLENLBIN,,Frequency data: Bug total length lower frequency bin,mm,,,,,,
+TLENQQQQ,,Frequency data: Quality control code of bugs having a given total length,,,,,,,
+TLENTLEN,,Frequency data: Bug total length,mm,,,,,,
+TLENUBIN,,Frequency data: Bug total length upper frequency bin,mm,,,,,,
+TRPH,,Trophic Descriptor,1,,,,,,
+TSM,,Bottle sample total suspended matter,g m-3,,,,,,
+TSN,,Taxonomic Serial Number,1,,,,,,
+TPHS,,Total Phosphorous (P) Content  ,mmol m-3,Millimoles per cubic metre,MMCM,Y,Y,TPHSZZXX,Concentration of total phosphorus {total_P CAS 7723-14-0} per unit volume of the water body [dissolved plus reactive particulate phase]
+VAIS,brunt_vaisala_frequency_in_sea_water,Brunt Vaissala Frequency  ,hertz,hertz,UTHZ,NA,Y,BVFSTP01,Brunt-Vaisala frequency squared of the water body by turbulence profiler precision CTD
+VCSP,upward_sea_water_velocity, Vertical Current Speed  ,m s-1,metres per second,UVAA,NA,Y,LRZAZZZZ,Upward current velocity in the water body
+WDIR,wind_to_direction,Wind Direction relative to North (T)  ,degrees,Degrees ,UAAA,"N: ""direction from which wind is blowing""",Y,,
+WETT,,Wet Bulb Temperature  ,degree_C,Degrees Celsius,UPAA,Y,Y,CWETZZ01,Wet bulb temperature of the atmosphere
+WSPD,wind_speed,Horizontal Wind Speed  ,m s-1,metres per second,UVAA,Y,Y,EWSBZZ01,Speed of wind {wind speed} in the atmosphere
+WSPE,eastward_wind,Eastward (true) Component of Wind Speed  ,m s-1,metres per second,UVAA,Y,Y,ESEWZZXX,Eastward velocity of wind in the atmosphere
+WSPN,northward_wind, Northward (True) Component of Wind Speed  ,m s-1,metres per second,UVAA,Y,Y,ESNSZZXX,Northward velocity of wind in the atmosphere
+WVER,upward_air_velocity,Vertical  Wind Speed  ,m s-1,metres per second,UVAA,Y,Y,EWSWZZ01,Upward air velocity in the atmosphere
+ZNTH,zenith_angle,Zenith Angle of Object From Reference  ,degrees,Degrees ,UAAA,Y,Y,,
+NONE,, No WMO assigned  ,1,,,NA,Y,,
+TOFF,,  CMCTD Time Offset in Day  ,s,seconds,UTBB,NA,Y,,
+CMTM,time,CMCTD Time YYJJJHHMMSSss  ,1,,,NA,Y,,
+UNKN,,Unknown WMO Code  ,1,,,NA,Y,,
+PPTR,,PIPE Internal Pointer  ,1,,,NA,Y,,
+BATT,,Battery Voltage  ,volts,volts,UVLT,NA,Y,,
+REFR,,Reference  ,1,,,NA,Y,,
+PVAR,,PIPE Variable  ,1,,,"NO!! COMPLETELY DIFFERENT""VARIANCE OF PRECEEDING PARAMETER""",Y,,
+GEOP,geopotential,Geopotential  ,1,,,NA,Y,,
+CNTR,,Counter  ,1,,,NA,Y,,
+FLOR,,Fluorescence  ,1,,,NA,Y,FLUOZZZZ,Fluorescence of the water body
+COND,sea_water_electrical_conductivity,Conductivity  ,mmHo,??,??,NA,Y,CNDCZZ01,Electrical conductivity of the water body
+ERRV,,Error Velocity  ,m s-1,metres per second,UVAA,NA,Y,LERRAP01,
+BEAM,,ADCP Echo Intensity  ,1,counts,UCNT,NA,Y,"TNIHCE (01,02, 03, 04)",Echo intensity from the water body by moored acoustic doppler current profiler (ADCP) beam 1
+PSAR,, Photosynthetic Active Radiation  ,micromoles/m**2/sec,Micromoles per square metre per second,UM2S,NA,Y,,
+GSPD,wind_speed_of_gust,Gust Wind Speed  ,m s-1,metres per second,UVAA,Y,Y,EGTSZZ01,Speed of wind (gust) {wind speed} in the atmosphere
+GDIR,wind_gust_from_direction,Gust Wind Direction  ,degrees,Degrees ,UAAA,"N: ""direction from whichgust..""",Y,EGTDZZ01,Direction from of wind (gust) relative to True North {wind direction} in the atmosphere
+TRAN,,Transmissivity  ,%,percent,UPCT,N,Y,,
+TE90,sea_water_temperature,Temperature (1990 scale)  ,degree_C,Degrees Celsius,UPAA,NA,Y,TEMPP901,Temperature (ITS-90) of the water body
+OXYG,mole_concentration_of_dissolved_molecular_oxygen_in_sea_water,Dissolved Oxygen  ,umol/kg,micromoles per kilogram,KGUM,NA,Y,DOXMZZXX,Concentration of oxygen {O2 CAS 7782-44-7} per unit mass of the water body [dissolved plus reactive particulate phase]
+OPPR,, Oxygen Partial Pressure  ,1,,,NA,Y,PO2XXXXX,Partial pressure of oxygen {O2 CAS 7782-44-7} in the water body
+SNCN,,Scan Counter  ,1,,,NA,Y,,
+PGDP,, Percent Good Pings , %,percent,UPCT,NA,Y,PCGDAP01,Acceptable proportion of signal returns by acoustic doppler current profiler (ADCP)
+TURB,sea_water_turbidity,OBS Turbidity  ,FTU,,,NA,Y,TURBXXXX,Turbidity of water in the water body
+VOLT,,Sensor Volts  ,volts,volts,UVLT,NOT FOUND,Y,,
+OXYV,,Oxygen Sensor Voltage  ,volts,volts,UVLT,NOT FOUND,Y,OXYOCPVL,Voltage of instrument output by oxygen sensor
+WTWT,,Wet Weight of Organisms,g,,,,,,
+VMET,,Method used to determine the volume of water,1,,,,,,
+URE,,Urea content,mmol m-3,,,,,UREAZZZZ,Concentration of urea {CAS 57-13-6} per unit volume of the water body [unknown phase]
+412E,,Irradiance 412nm,uW/cm**2/nm,,,,,RXUU412E,Upwelling vector irradiance as energy of electromagnetic radiation (412nm wavelength) in the water body by cosine-collector radiometer
+412ESDEV,,Irradiance 412nm standard deviation,uW/cm**2/nm,,,,,,
+412L,,Radiance 412nm,uW/cm**2/nm/sr,,,,,RXUU412L,Upwelling radiance as energy of electromagnetic radiation (412nm wavelength) in the water body by radiance sensor
+412LSDEV,,Radiance 412nm standard deviation,uW/cm**2/nm/sr,,,,,,
+443E,,Irradiance 443nm,uW/cm**2/nm,,,,,RXUU443E,Upwelling vector irradiance as energy of electromagnetic radiation (443nm wavelength) in the water body by cosine-collector radiometer
+443ESDEV,,Irradiance 443nm standard deviation,uW/cm**2/nm,,,,,,
+443L,,Radiance 443nm,uW/cm**2/nm/sr,,,,,RXUU443L,Upwelling radiance as energy of electromagnetic radiation (443nm wavelength) in the water body by radiance sensor
+443LSDEV,,Radiance 443nm standard deviation,uW/cm**2/nm/sr,,,,,,
+490E,,Irradiance 490nm,uW/cm**2/nm,,,,,RXUU490E,Upwelling vector irradiance as energy of electromagnetic radiation (490nm wavelength) in the water body by cosine-collector radiometer
+490ESDEV,,Irradiance 490nm standard deviation,uW/cm**2/nm,,,,,,
+490L,,Radiance 490nm,uW/cm**2/nm/sr,,,,,RXUU490L,Upwelling radiance as energy of electromagnetic radiation (490nm wavelength) in the water body by radiance sensor
+490LSDEV,,Radiance 490nm standard deviation,uW/cm**2/nm/sr,,,,,,
+510E,,Irradiance 510nm,uW/cm**2/nm,,,,,RXUU510E,Upwelling vector irradiance as energy of electromagnetic radiation (510nm wavelength) in the water body by cosine-collector radiometer
+510ESDEV,,Irradiance 510nm standard deviation,uW/cm**2/nm,,,,,,
+510L,,Radiance 510nm,uW/cm**2/nm/sr,,,,,RXUU510L,Upwelling radiance as energy of electromagnetic radiation (510nm wavelength) in the water body by radiance sensor
+510LSDEV,,Radiance 510nm standard deviation,uW/cm**2/nm/sr,,,,,,
+555E,,Irradiance 555nm,uW/cm**2/nm,,,,,RXUU555E,Upwelling vector irradiance as energy of electromagnetic radiation (555nm wavelength) in the water body by cosine-collector radiometer
+555ESDEV,,Irradiance 555nm standard deviation,uW/cm**2/nm,,,,,,
+555L,,Radiance 555nm,uW/cm**2/nm/sr,,,,,RXUU555L,Upwelling radiance as energy of electromagnetic radiation (555nm wavelength) in the water body by radiance sensor
+555LSDEV,,Radiance 555nm standard deviation,uW/cm**2/nm/sr,,,,,,
+669E,,Irradiance 669nm,uW/cm**2/nm,,,,,IRRDE669,Downwelling vector irradiance as photons of electromagnetic radiation (669nm wavelength) in the water body by cosine-collector radiometer
+669ESDEV,,Irradiance 669nm standard deviation,uW/cm**2/nm,,,,,,
+669L,,Radiance 669nm,uW/cm**2/nm/sr,,,,,,
+669LSDEV,,Radiance 669nm standard deviation,uW/cm**2/nm/sr,,,,,,
+683E,,Irradiance 683nm,uW/cm**2/nm,,,,,RXUD683E,Downwelling vector irradiance as energy of electromagnetic radiation (683nm wavelength) in the water body by cosine-collector radiometer
+683ESDEV,,Irradiance 683nm standard deviation,uW/cm**2/nm,,,,,,
+683L,,Radiance 683nm,uW/cm**2/nm/sr,,,,,RXUUU683,Upwelling radiance as energy of electromagnetic radiation (683nm wavelength) in the water body by radiance sensor
+683LSDEV,,Radiance 683nm standard deviation,uW/cm**2/nm/sr,,,,,,

@@ -1,0 +1,51 @@
+id,name,call_sign,Country_of_origin,ICES_SHIPC_ship_codes,Platform_owner,Platform_type,IMO_number,BODC Vocabulary
+1,CCGS Teleost,CGCB,Canada,18TL,Canadian Coast Guard,ice-reinforced factory freeze trawler,8714346,http://vocab.nerc.ac.uk/collection/C17/current/18TL/
+2,CCGS Hudson,CGDG,Canada,18HU,Canadian Coast Guard,Offshore research,5405279,http://vocab.nerc.ac.uk/collection/C17/current/18HU/
+3,CCGS Alfred Needler,CG2683,Canada,18NE,Canadian Coast Guard,Offshore Fishery Science Vessel,7907104,http://vocab.nerc.ac.uk/collection/C17/current/18NE/
+4,CCGS M. Perley,CGMP,Canada,18MU,Canadian Coast Guard,Nearshore Fishery Research,9656151,http://vocab.nerc.ac.uk/collection/C17/current/18MU/
+4,CCGS M.Perley,CGMP,Canada,18MU,Canadian Coast Guard,Nearshore Fishery Research,9656151,http://vocab.nerc.ac.uk/collection/C17/current/18MU/
+5,CCGS Sir Wilfrid Laurier,CGJK,Canada,"	18LU",Canadian Coast Guard,Arctic Class 2,8320456,http://vocab.nerc.ac.uk/collection/C17/current/18LU/
+6,CCGS Viola M. Davidson,CGEC,Canada,18AU,Canadian Coast Guard,Research vessel,,http://vocab.nerc.ac.uk/collection/C17/current/18AU/
+7,CCGS Amundsen,CGDT,Canada,18DL,Canadian Coast Guard,Research vessel,7510846,http://vocab.nerc.ac.uk/collection/C17/current/18DL/
+8,CCGS Sigma T,,Canada,18SG,Canadian Coast Guard,Coastal Research vessel,,http://vocab.nerc.ac.uk/collection/C17/current/18SG/
+8,CCGS SigmaT,,Canada,18SG,Canadian Coast Guard,Coastal Research vessel,,http://vocab.nerc.ac.uk/collection/C17/current/18SG/
+9,CCGS Vladykov,CFN5960,Canada,18VD,Canadian Coast Guard,Nearshore Fishery Research Vessel,9656149,http://vocab.nerc.ac.uk/collection/C17/current/18VD/
+10,CCGS Neocaligus,CFG7677,Canada,18QX,Canadian Coast Guard,Nearshore Fishery Research Vessel,,http://vocab.nerc.ac.uk/collection/C17/current/18QX/
+11,CCGS Leim,CFN6223,Canada,18LO,Canadian Coast Guard,Nearshore Fishery Research Vessel,9656163,http://vocab.nerc.ac.uk/collection/C17/current/18LO/
+12,CCGS Vector,CGBW,Canada,18VT,Canadian Coast Guard,Mid Shore Science Vessel,6717760,http://vocab.nerc.ac.uk/collection/C17/current/18VT/
+13,CCGS Otter Bay,CG3262,Canada,18D3,Canadian Coast Guard,Mid Shore Science Vessel,,http://vocab.nerc.ac.uk/collection/C17/current/18D3/
+14,CCGS Limnos,CG2350,Canada,18LN,Canadian Coast Guard,Mid Shore Science Vessel,6804903,http://vocab.nerc.ac.uk/collection/C17/current/18LN/
+15,CCGS Capt Jacques Cartier,CFA3098,Canada,18QL,Canadian Coast Guard,Offshore Fishery Science Vessel,9781841,http://vocab.nerc.ac.uk/collection/C17/current/18QL/
+16,CCGS John Cabot,CGDJ,Canada,18KF,Canadian Coast Guard,Offshore Fishery Science Vessel,9781853,http://vocab.nerc.ac.uk/collection/C17/current/18KF/
+17,CCGS Sir John Franklin,VFAM,Canada,18SZ,Canadian Coast Guard,Offshore Fishery Science Vessel,9781839,http://vocab.nerc.ac.uk/collection/C17/current/18SZ/
+18,CCGS John P. Tully,CG2958,Canada,18DD,Canadian Coast Guard,Offshore Oceanographic Science Vessel,8320420,http://vocab.nerc.ac.uk/collection/C17/current/18DD/
+19,CCGS Louis S. St-Laurent,CGBN,Canada,18SN,Canadian Coast Guard,Heavy Icebreaker,6705937,http://vocab.nerc.ac.uk/collection/C17/current/18SN/
+20,Coriolis II,CGDN,Canada,18OL,"institutions: ISMER, UQAM, McGill University, INRS-ETE, MLI-DFO  ",Research Vessel,8818570,http://vocab.nerc.ac.uk/collection/C17/current/18OL/
+21,Neil Armstrong,WRNU,United States,33VB,Woods Hole Oceanographic Institution,Research Vessel,9688946,http://vocab.nerc.ac.uk/collection/C17/current/33VB/
+22,Atlantis,KAQP,United States,33AT,U.S. Navy,Research Vessel,9105798,http://vocab.nerc.ac.uk/collection/C17/current/33AT/
+23,Endeavor,WCE5063,United States,32EV,National Science Foundation,Research Vessel,7604300,http://vocab.nerc.ac.uk/collection/C17/current/32EV/
+23,RV Endeavor US,WCE5063,United States,32EV,National Science Foundation,Research Vessel,7604300,http://vocab.nerc.ac.uk/collection/C17/current/32EV/
+24,Dana,OXBH,Denmark,26D4,Technical University of Denmark,Research Vessel,7912680,http://vocab.nerc.ac.uk/collection/C17/current/26D4/
+25,RRS James Cook,MLRM6,United Kingdom,740H,National Environment Research Council,Research vessel,9338242,http://vocab.nerc.ac.uk/collection/C17/current/740H/
+26,Fugro Discovery,,Panama,PADS,Fugro,Hydrographic Survey Vessel,9152882,http://vocab.nerc.ac.uk/collection/C17/current/PADS/
+27,CCGS Martha L. Black,VCQL,Canada,18MF,Canadian Coast Guard,"Multi-Tasked Vessel, Arctic Class 2",8320432,http://vocab.nerc.ac.uk/collection/C17/current/18MF/
+28,Discovery,,United Kingdom,74EQ,National Environment Research Council,Research vessel,9588029,http://vocab.nerc.ac.uk/collection/C17/current/74EQ/
+29,Dominion Victory,,Canada,18HK,Dominion Diving Ltd,Research vessel,6522713,http://vocab.nerc.ac.uk/collection/C17/current/18HK/
+30,CCGS Earl Grey,CG3029,Canada,18EG,Canadian Coast Guard,Canadian Coast Guard,8412340,http://vocab.nerc.ac.uk/collection/C17/current/18EG/
+31,Fundy Spray,,Canada,18FQ,HMSC,Research vessel,,http://vocab.nerc.ac.uk/collection/C17/current/18FQ/
+32,CCGS Pierre Radisson,CGDX,Canada,18RD,Canadian Coast Guard,Canadian Coast Guard,7510834,http://vocab.nerc.ac.uk/collection/C17/current/18RD/
+33,Island Venture 1,,Canada,fishing vessel,Private,fishing,,
+34,CCGS Henry Larsen,CGHL,Canada,18HS,Canadian Coast Guard,Canadian Coast Guard,8409329,http://vocab.nerc.ac.uk/collection/C17/current/18HS/
+35,Pearkes,CGCX,Canada,18GP,Canadian Coast Guard,Canadian Coast Guard,8320444,http://vocab.nerc.ac.uk/collection/C17/current/18GP/
+35,George R. Pearkes,CGCX,Canada,18GP,Canadian Coast Guard,Canadian Coast Guard,8320444,http://vocab.nerc.ac.uk/collection/C17/current/18GP/
+36,CCGS Edward Cornwallis,CGJV,Canada,,Canadian Coast Guard,Canadian Coast Guard,8320470,
+36,CCGS KOPIT HOPSON 1752,CGJV,Canada,,Canadian Coast Guard,Canadian Coast Guard,8320470,
+37,CCGS Sir William Alexander,CGUM,Canada,18WA,Canadian Coast Guard,Canadian Coast Guard,8320482,http://vocab.nerc.ac.uk/collection/C17/current/18WA/
+38,CCGS Des Groseilliers,CGDX,Canada,18GO,Canadian Coast Guard,Canadian Coast Guard,8006385,http://vocab.nerc.ac.uk/collection/C17/current/18GO/
+39,CCGS Anne Harvey,CGAH,Canada,18AV,Canadian Coast Guard,Canadian Coast Guard,8320468,http://vocab.nerc.ac.uk/collection/C17/current/18AV/
+40,CCGS Navicula,CG2364,Canada,18NA,Canadian Coast Guard,Canadian Coast Guard fisheries research vessel,,http://vocab.nerc.ac.uk/collection/C17/current/18NA/
+41,CCGS Cygnus,CGDW,Canada,18CY,Canadian Coast Guard,Canadian Coast Guard ,7927831,http://vocab.nerc.ac.uk/collection/C17/current/18CY/
+42,CCGS Sambro,CG2613,Canada,18S9,Canadian Coast Guard,Canadian Coast Guard ,,http://vocab.nerc.ac.uk/collection/C17/current/18S9/
+43,Parizeau,CGBS,Canada,18PZ,Canadian Coast Guard,Canadian Coast Guard ,decommissioned 2001,http://vocab.nerc.ac.uk/collection/C17/current/18PZ/
+43,CCGS Parizeau,CGBS,Canada,18PZ,Canadian Coast Guard,Canadian Coast Guard ,decommissioned 2001,http://vocab.nerc.ac.uk/collection/C17/current/18PZ/
+44,EASTCOM,NaN,Canada,NaN,Private,dive,,

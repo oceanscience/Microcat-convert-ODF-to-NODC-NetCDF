@@ -1,0 +1,37 @@
+MicroCat 
+SBE37-SM V2.2
+SBE37-SM V2.6b
+SBE37-SM V2.5
+SBE37-SMP V1.1
+SBE37-SM V3.1
+SBE37-SM V4.1
+SBE37-IM
+SBE37-IM V3.1
+SBE37-SM V3.0b
+SBE37-SM V1.4
+
+
+SBE 37-SM/SMP/SMP-ODO MicroCAT    ODO: Optical Dissolved Oxygen measurements
+SBE 37 IM, IMP, IMP-ODO MicroCAT
+SBE 37-SI/SIP MicroCAT
+
+SBE16 Seacat, SDN:L22::TOOL0023, http://vocab.nerc.ac.uk/collection/L22/current/TOOL0023/
+
+SBE39
+
+https://www.seabird.com/moored/sbe-37-si-and-sip-microcat/family?productCategoryId=54627473785
+
+
+SBE 37-SM, SDN:L22::TOOL1456,  https://vocab.nerc.ac.uk/collection/L22/current/TOOL1456/  (with integrated pressure sensor)
+SBE 37-SMP, SDN:L22::TOOL1457, https://vocab.nerc.ac.uk/collection/L22/current/TOOL1457/  (with integrated pressure sensor)
+SBE 37-IM, SDN:L22::TOOL1450, https://vocab.nerc.ac.uk/collection/L22/current/TOOL1450/  (with integrated pressure sensor)
+SBE 37-IM, SDN:L22::TOOL0022, https://vocab.nerc.ac.uk/collection/L22/current/TOOL0022/  (with optional pressure sensors)
+SBE 37-IMP,SDN:L22::TOOL1451, https://vocab.nerc.ac.uk/collection/L22/current/TOOL1451/  (with integrated pressure sensor)
+SBE 37-SIP,SDN:L22::TOOL0020, https://vocab.nerc.ac.uk/collection/L22/current/TOOL0020/   (with optional pressure sensors)
+SBE 37-SIP,SDN:L22::TOOL1453, https://vocab.nerc.ac.uk/collection/L22/current/TOOL1453/   (with integrated pressure sensor)
+SBE 37-SI, SDN:L22::TOOL1452, https://vocab.nerc.ac.uk/collection/L22/current/TOOL1452/  (with integrated pressure sensor)
+SBE 37-SI, SDN:L22::TOOL0021, https://vocab.nerc.ac.uk/collection/L22/current/TOOL0021/  (with optional pressure sensors)
+SBE 39,SDN:L22::TOOL0266, http://vocab.nerc.ac.uk/collection/L22/current/TOOL0266/
+
+TOOL1247	Aanderaa 4330 oxygen optode  SDN:L22::TOOL1247, http://vocab.nerc.ac.uk/collection/L22/current/TOOL1247/
+TOOL0836	Aanderaa Oxygen Optode 3830  SDN:L22::TOOL0836, http://vocab.nerc.ac.uk/collection/L22/current/TOOL0836/
